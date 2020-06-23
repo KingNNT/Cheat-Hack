@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CheatAOE.vcxproj -> E:\Code\C-Extend\Visual-Studio-Compiler\Project\Console-App-Cpp\Release\CheatAOE.exe

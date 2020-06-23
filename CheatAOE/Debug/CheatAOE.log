@@ -1,0 +1,19 @@
+﻿  main.cpp
+  process.cpp
+  Generating Code...
+E:\Code\C-Extend\Visual-Studio-Compiler\Project\Console-App-Cpp\CheatAOE\process.cpp(88): warning C4715: 'CheckReadProcMemory': not all control paths return a value
+process.obj : error LNK2005: "unsigned long pid" (?pid@@3KA) already defined in main.obj
+process.obj : error LNK2005: "unsigned long WoodbaseAddress" (?WoodbaseAddress@@3KA) already defined in main.obj
+process.obj : error LNK2005: "unsigned long FoodbaseAddress" (?FoodbaseAddress@@3KA) already defined in main.obj
+process.obj : error LNK2005: "unsigned long GoldbaseAddress" (?GoldbaseAddress@@3KA) already defined in main.obj
+process.obj : error LNK2005: "unsigned long StonebaseAddress" (?StonebaseAddress@@3KA) already defined in main.obj
+process.obj : error LNK2005: "unsigned long moduleAddress" (?moduleAddress@@3KA) already defined in main.obj
+process.obj : error LNK2005: "float newWood" (?newWood@@3MA) already defined in main.obj
+process.obj : error LNK2005: "float newFood" (?newFood@@3MA) already defined in main.obj
+process.obj : error LNK2005: "float newGold" (?newGold@@3MA) already defined in main.obj
+process.obj : error LNK2005: "float newStone" (?newStone@@3MA) already defined in main.obj
+process.obj : error LNK2005: "unsigned long WoodAddress" (?WoodAddress@@3KA) already defined in main.obj
+process.obj : error LNK2005: "unsigned long FoodAddress" (?FoodAddress@@3KA) already defined in main.obj
+process.obj : error LNK2005: "unsigned long GoldAddress" (?GoldAddress@@3KA) already defined in main.obj
+process.obj : error LNK2005: "unsigned long StoneAddress" (?StoneAddress@@3KA) already defined in main.obj
+E:\Code\C-Extend\Visual-Studio-Compiler\Project\Console-App-Cpp\Debug\CheatAOE.exe : fatal error LNK1169: one or more multiply defined symbols found
